@@ -1,5 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .loading {
     width: 100px;
-    padding-left: 46%;
-    padding-top: 20%;
+    padding-left: 20%;
+}
+
+.loadingStatus {
+    width: 100px;
+    padding-left: 60%;
+}
+
+#load {
+    padding-left: 20%;
+}
+
+#loadStatus {
+    padding-left: 80%;
 }
